@@ -1,7 +1,7 @@
-laser-jewelry
+Open Source Laser Cut Jewelry Designs
 =============
 
-An open collection of jewelry designs for laser cutters/engravers from BuildBrighton hackspace.
+An open collection of jewelry designs for laser cutters/engravers from BuildBrighton hackspace (http://www.buildbrighton.com).
 
 Source files are all in SVG format which can be opened in most modern browsers and edited using Inkscape (or other vector illustration packages).
 
