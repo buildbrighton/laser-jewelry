@@ -14,7 +14,7 @@ Credits
 ============
 
 frame-brain.png and frame-brain.svg are based on https://commons.wikimedia.org/wiki/File:Brain_stem_normal_human.svg
-All other works by Toby Cole (@tubfun).
+All other works (so far) by Toby Cole (@tubfun).
 
 License
 ============
