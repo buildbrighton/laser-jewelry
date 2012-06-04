@@ -1,0 +1,13 @@
+The rabbit ring consists of three layers 
+ * Head outline bottom (white): the white bottom layer containing the rabbit's ears
+ * Head outline middle (black): a middle black layer with the rabbit's ear-holes & infil for the eyes & nose
+ * Top Layer: a white front-layer with the rabbit's face
+
+Each of these is a layer in the SVG file when opened within inkscape. 
+Show one layer at a time when cutting the parts otherwise you will end up with a mess of tiny rabbit bits.
+As with the other designs, red & black are for cutting (black last) & blue is for scoring/etching.
+
+Once all three pieces have been cut out, glue them together in the correct order. 
+If using acrylic I recommend a solvent cement to bond them.
+
+Toby.

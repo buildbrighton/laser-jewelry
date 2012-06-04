@@ -9,6 +9,7 @@ Unless otherwise specified within the SVG file, red & black lines are for cuttin
 
 Where an SVG file has an accompanying PNG file this is for etching ontop of the jewelry.
 
+For more complex pieces, a readme file may be included (as 'filename'.readme.txt).
 
 Credits
 ============
