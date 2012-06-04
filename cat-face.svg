@@ -13,7 +13,7 @@
    height="1052.3622047"
    id="svg3834"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="cat-face.svg">
   <defs
      id="defs3836" />
@@ -28,7 +28,7 @@
      inkscape:cx="176.92461"
      inkscape:cy="366.32344"
      inkscape:document-units="px"
-     inkscape:current-layer="g4388"
+     inkscape:current-layer="g4394"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -69,7 +69,7 @@
          inkscape:connector-curvature="0"
          id="path3842"
          d="M 961.55744,51.98887 695.7252,221.99699 c -53.77806,-21.85673 -117.54171,-34.15524 -181.61684,-34.15524 -66.79796,0 -129.81337,13.34316 -185.26788,36.97164 L 82.226292,56.648739 127.4423,451.1495 c -1.70406,12.43486 -1.46945,50.77953 -6.14487,67.18393 -44.692252,147.75681 170.44154,246.16796 392.81093,246.16796 222.36939,0 452.20098,-108.34278 412.47453,-246.16796 -6.99784,-24.27796 -3.49406,-49.89261 -10.03664,-73.53363 z"
-         style="fill:none;stroke:#ff2222;stroke-width:1.79233599;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:none;stroke:#000000;stroke-width:1.79233598999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <g
          id="g4388">
         <path
